@@ -1,7 +1,7 @@
 #importing datetime, will be used to get the date and time from the computer 
 from datetime import datetime
 
-#Initailizing my Employee Class
+#Initailizing my Employee Classes
 class Employee:
     def __init__(self,employee_id,name,hourly_wage):
         self.employee_id =employee_id

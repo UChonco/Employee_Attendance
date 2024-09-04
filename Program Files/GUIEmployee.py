@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 from datetime import datetime
-
+#class for Employee  
 class Employee:
     def __init__(self, employee_id, name, hourly_wage):
         self.employee_id = employee_id
